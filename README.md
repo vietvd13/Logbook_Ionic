@@ -1,4 +1,4 @@
-# CourseWork_Ionic
+# Logbook - Mobile Application Design and Development
 
 ## Logbook 1: RingBell.zip
 ## Logbook 2: IonicFormValidate.zip
